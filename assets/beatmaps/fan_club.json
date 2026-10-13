@@ -1,0 +1,162 @@
+{
+ "song": "Fan Club",
+ "source": "extracted from perfect-version recording",
+ "beats": [
+  {
+   "time": 5.574,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 5.992,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 6.41,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 6.828,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 19.053,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 19.68,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 19.889,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 20.307,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 25.845,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 26.263,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 26.681,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 32.533,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 33.264,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 33.473,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 33.787,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 39.325,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 40.161,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 42.773,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 43.4,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 43.609,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 43.923,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 44.341,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 46.013,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 46.953,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 51.133,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 51.76,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 51.969,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 52.387,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 54.476,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 55.417,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 55.835,
+   "actor": "player",
+   "type": "swipe",
+   "label": "FINISH!"
+  }
+ ]
+}

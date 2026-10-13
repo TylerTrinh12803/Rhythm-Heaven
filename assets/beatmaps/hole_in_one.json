@@ -1,0 +1,442 @@
+{
+ "song": "Hole in One",
+ "source": "extracted from perfect-version recording",
+ "beats": [
+  {
+   "time": 3.193,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 3.587,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 3.947,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 5.259,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 8.44,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 11.517,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 12.295,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 13.34,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 16.115,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 16.788,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 20.027,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 20.387,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 20.817,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 21.687,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 24.044,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 25.089,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 25.612,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 28.212,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 30.302,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 32.392,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 33.17,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 34.47,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 36.56,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 37.338,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 38.65,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 39.938,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 40.739,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 42.04,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 42.876,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 44.292,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 44.907,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 46.997,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 48.565,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 50.132,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 50.55,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 52.64,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 54.311,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 55.101,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 55.89,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 56.39,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 56.912,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 57.481,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 57.957,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 58.329,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 59.002,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 59.78,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 60.302,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 60.848,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 61.347,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 61.87,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 63.17,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 63.692,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 65.318,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 65.863,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 66.305,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 67.257,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 67.628,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 68.127,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 68.661,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 69.683,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 70.229,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 70.995,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 72.818,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 73.34,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 73.863,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 75.337,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 75.697,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 76.22,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 76.904,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 77.264,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 78.321,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 78.75,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 79.528,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 79.888,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 80.434,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 80.817,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 81.479,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 84.3,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 88.735,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 89.513,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 90.558,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 91.254,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 97.245,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 97.605,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 98.035,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 98.905,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 101.251,
+   "actor": "player",
+   "type": "swipe",
+   "label": "FINISH!"
+  }
+ ]
+}

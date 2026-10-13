@@ -1,0 +1,166 @@
+{
+  "song": "Practice",
+  "bpm": 63,
+  "beats": [
+    {
+      "time": 2.514,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 4.418,
+      "actor": "player",
+      "type": "tap",
+      "label": "TAP!"
+    },
+    {
+      "time": 6.322,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 8.226,
+      "actor": "player",
+      "type": "tap",
+      "label": "TAP!"
+    },
+    {
+      "time": 10.13,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 12.034,
+      "actor": "player",
+      "type": "tap",
+      "label": "TAP!"
+    },
+    {
+      "time": 13.938,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 15.842,
+      "actor": "player",
+      "type": "tap",
+      "label": "TAP!"
+    },
+    {
+      "time": 17.746,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 19.65,
+      "actor": "player",
+      "type": "tap",
+      "label": "TAP!"
+    },
+    {
+      "time": 21.554,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 23.458,
+      "actor": "player",
+      "type": "tap",
+      "label": "TAP!"
+    },
+    {
+      "time": 25.362,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 1.428
+    },
+    {
+      "time": 27.266,
+      "actor": "player",
+      "type": "hold",
+      "duration": 1.428,
+      "label": "HOLD... release!"
+    },
+    {
+      "time": 29.17,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 1.428
+    },
+    {
+      "time": 31.074,
+      "actor": "player",
+      "type": "hold",
+      "duration": 1.428,
+      "label": "HOLD... release!"
+    },
+    {
+      "time": 32.978,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 1.428
+    },
+    {
+      "time": 34.882,
+      "actor": "player",
+      "type": "hold",
+      "duration": 1.428,
+      "label": "HOLD... release!"
+    },
+    {
+      "time": 36.786,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 1.428
+    },
+    {
+      "time": 38.69,
+      "actor": "player",
+      "type": "hold",
+      "duration": 1.428,
+      "label": "HOLD... release!"
+    },
+    {
+      "time": 40.594,
+      "actor": "npc",
+      "type": "swipe",
+      "duration": 0.4
+    },
+    {
+      "time": 42.498,
+      "actor": "player",
+      "type": "swipe",
+      "label": "SWIPE UP!"
+    },
+    {
+      "time": 44.402,
+      "actor": "npc",
+      "type": "swipe",
+      "duration": 0.4
+    },
+    {
+      "time": 46.306,
+      "actor": "player",
+      "type": "swipe",
+      "label": "SWIPE UP!"
+    },
+    {
+      "time": 48.21,
+      "actor": "npc",
+      "type": "swipe",
+      "duration": 0.4
+    },
+    {
+      "time": 50.114,
+      "actor": "player",
+      "type": "swipe",
+      "label": "SWIPE UP!"
+    }
+  ]
+}

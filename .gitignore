@@ -1,0 +1,6 @@
+_to_delete/
+_update/
+.claude/
+node_modules/
+Thumbs.db
+.DS_Store

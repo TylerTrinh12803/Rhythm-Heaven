@@ -1,0 +1,186 @@
+{
+  "song": "Midnight Drive",
+  "bpm": 92,
+  "beats": [
+    {
+      "time": 10.435,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 11.739,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 13.043,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 14.348,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 15.652,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 16.957,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 18.261,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 19.565,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 20.87,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 1.3043478260869565
+    },
+    {
+      "time": 23.478,
+      "actor": "player",
+      "type": "hold",
+      "duration": 1.304
+    },
+    {
+      "time": 26.087,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 27.391,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 28.696,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 30.0,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 31.304,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 32.609,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 33.913,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 35.217,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 36.522,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 1.3043478260869565
+    },
+    {
+      "time": 39.13,
+      "actor": "player",
+      "type": "hold",
+      "duration": 1.304
+    },
+    {
+      "time": 41.739,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 43.043,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 44.348,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 45.652,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 46.957,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 48.261,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 49.565,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 50.87,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 52.174,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 1.3043478260869565
+    },
+    {
+      "time": 54.783,
+      "actor": "player",
+      "type": "hold",
+      "duration": 1.304
+    },
+    {
+      "time": 58.696,
+      "actor": "npc",
+      "type": "swipe",
+      "duration": 0.4
+    },
+    {
+      "time": 61.304,
+      "actor": "player",
+      "type": "swipe",
+      "label": "FINISH!"
+    }
+  ]
+}

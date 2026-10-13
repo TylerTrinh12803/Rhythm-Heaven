@@ -1,0 +1,349 @@
+{
+  "song": "Glee Club",
+  "beats": [
+    {
+      "time": 10,
+      "actor": "npc1",
+      "type": "hold",
+      "duration": 0.5,
+      "animation": "ahhn",
+      "audioKey": "gleeAhhn"
+    },
+    {
+      "time": 11,
+      "actor": "npc2",
+      "type": "hold",
+      "duration": 0.5,
+      "animation": "ahhc",
+      "audioKey": "gleeAhhc"
+    },
+    {
+      "time": 12,
+      "actor": "player",
+      "type": "hold",
+      "duration": 0.5
+    },
+    {
+      "time": 18,
+      "actor": "npc1",
+      "type": "hold",
+      "duration": 0.5,
+      "animation": "ahhn",
+      "audioKey": "gleeAhhn"
+    },
+    {
+      "time": 19,
+      "actor": "npc2",
+      "type": "hold",
+      "duration": 0.5,
+      "animation": "ahhc",
+      "audioKey": "gleeAhhc"
+    },
+    {
+      "time": 20,
+      "actor": "player",
+      "type": "hold",
+      "duration": 0.5
+    },
+    {
+      "time": 20,
+      "actor": "npc3",
+      "type": "cue",
+      "duration": 1.0,
+      "animation": "idleh",
+      "audioKey": "together"
+    },
+    {
+      "time": 21.3,
+      "actor": "npc1",
+      "type": "swipe",
+      "animation": "screen",
+      "audioKey": "screenn"
+    },
+    {
+      "time": 21.4,
+      "actor": "npc2",
+      "type": "swipe",
+      "animation": "screec",
+      "audioKey": "screecc"
+    },
+    {
+      "time": 21.5,
+      "actor": "player",
+      "type": "swipe"
+    },
+    {
+      "time": 26,
+      "actor": "npc1",
+      "type": "hold",
+      "duration": 0.5,
+      "animation": "ahhn",
+      "audioKey": "gleeAhhn"
+    },
+    {
+      "time": 27,
+      "actor": "npc2",
+      "type": "hold",
+      "duration": 0.5,
+      "animation": "ahhc",
+      "audioKey": "gleeAhhc"
+    },
+    {
+      "time": 28,
+      "actor": "player",
+      "type": "hold",
+      "duration": 0.5
+    },
+    {
+      "time": 33,
+      "actor": "npc1",
+      "type": "hold",
+      "duration": 0.5,
+      "animation": "ahhn",
+      "audioKey": "gleeAhhn"
+    },
+    {
+      "time": 34,
+      "actor": "npc2",
+      "type": "hold",
+      "duration": 0.5,
+      "animation": "ahhc",
+      "audioKey": "gleeAhhc"
+    },
+    {
+      "time": 35,
+      "actor": "player",
+      "type": "hold",
+      "duration": 0.5
+    },
+    {
+      "time": 37,
+      "actor": "npc1",
+      "type": "hold",
+      "duration": 3,
+      "animation": "ahhn",
+      "audioKey": "gleeAhhn"
+    },
+    {
+      "time": 40,
+      "actor": "npc2",
+      "type": "hold",
+      "duration": 3,
+      "animation": "ahhc",
+      "audioKey": "gleeAhhc"
+    },
+    {
+      "time": 43,
+      "actor": "player",
+      "type": "hold",
+      "duration": 3
+    },
+    {
+      "time": 46,
+      "actor": "npc3",
+      "type": "cue",
+      "duration": 1.0,
+      "animation": "idleh",
+      "audioKey": "together"
+    },
+    {
+      "time": 47.3,
+      "actor": "npc1",
+      "type": "swipe",
+      "animation": "screen",
+      "audioKey": "screenn"
+    },
+    {
+      "time": 47.4,
+      "actor": "npc2",
+      "type": "swipe",
+      "animation": "screec",
+      "audioKey": "screecc"
+    },
+    {
+      "time": 47.5,
+      "actor": "player",
+      "type": "swipe"
+    },
+    {
+      "time": 49,
+      "actor": "npc1",
+      "type": "hold",
+      "duration": 0.1,
+      "animation": "ahhn",
+      "audioKey": "gleeAhhn"
+    },
+    {
+      "time": 49.5,
+      "actor": "npc1",
+      "type": "hold",
+      "duration": 0.5,
+      "animation": "ahhn",
+      "audioKey": "gleeAhhn"
+    },
+    {
+      "time": 50,
+      "actor": "npc2",
+      "type": "hold",
+      "duration": 0.1,
+      "animation": "ahhc",
+      "audioKey": "gleeAhhc"
+    },
+    {
+      "time": 50.5,
+      "actor": "npc2",
+      "type": "hold",
+      "duration": 0.5,
+      "animation": "ahhc",
+      "audioKey": "gleeAhhc"
+    },
+    {
+      "time": 51,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 51.5,
+      "actor": "player",
+      "type": "hold",
+      "duration": 0.5
+    },
+    {
+      "time": 57,
+      "actor": "npc1",
+      "type": "hold",
+      "duration": 3,
+      "animation": "ahhn",
+      "audioKey": "gleeAhhn"
+    },
+    {
+      "time": 58,
+      "actor": "npc2",
+      "type": "hold",
+      "duration": 2,
+      "animation": "ahhc",
+      "audioKey": "gleeAhhc"
+    },
+    {
+      "time": 59,
+      "actor": "player",
+      "type": "hold",
+      "duration": 1
+    },
+    {
+      "time": 63.5,
+      "actor": "npc1",
+      "type": "hold",
+      "duration": 3,
+      "animation": "ahhn",
+      "audioKey": "gleeAhhn"
+    },
+    {
+      "time": 64.5,
+      "actor": "npc2",
+      "type": "hold",
+      "duration": 2,
+      "animation": "ahhc",
+      "audioKey": "gleeAhhc"
+    },
+    {
+      "time": 65.5,
+      "actor": "player",
+      "type": "hold",
+      "duration": 1
+    },
+    {
+      "time": 66.5,
+      "actor": "npc3",
+      "type": "cue",
+      "duration": 1.0,
+      "animation": "idleh",
+      "audioKey": "together"
+    },
+    {
+      "time": 67.8,
+      "actor": "npc1",
+      "type": "swipe",
+      "animation": "screen",
+      "audioKey": "screenn"
+    },
+    {
+      "time": 67.9,
+      "actor": "npc2",
+      "type": "swipe",
+      "animation": "screec",
+      "audioKey": "screecc"
+    },
+    {
+      "time": 70,
+      "actor": "player",
+      "type": "swipe"
+    },
+    {
+      "time": 72,
+      "actor": "npc1",
+      "type": "hold",
+      "duration": 3,
+      "animation": "ahhn",
+      "audioKey": "gleeAhhn"
+    },
+    {
+      "time": 73,
+      "actor": "npc2",
+      "type": "hold",
+      "duration": 2,
+      "animation": "ahhc",
+      "audioKey": "gleeAhhc"
+    },
+    {
+      "time": 74,
+      "actor": "player",
+      "type": "hold",
+      "duration": 1
+    },
+    {
+      "time": 78,
+      "actor": "npc1",
+      "type": "hold",
+      "duration": 3,
+      "animation": "ahhn",
+      "audioKey": "gleeAhhn"
+    },
+    {
+      "time": 79,
+      "actor": "npc2",
+      "type": "hold",
+      "duration": 2,
+      "animation": "ahhc",
+      "audioKey": "gleeAhhc"
+    },
+    {
+      "time": 80,
+      "actor": "player",
+      "type": "hold",
+      "duration": 1
+    },
+    {
+      "time": 84,
+      "actor": "npc1",
+      "type": "hold",
+      "duration": 0.1,
+      "animation": "ahhn",
+      "audioKey": "gleeAhhn"
+    },
+    {
+      "time": 84.5,
+      "actor": "npc2",
+      "type": "hold",
+      "duration": 0.1,
+      "animation": "ahhc",
+      "audioKey": "gleeAhhc"
+    },
+    {
+      "time": 85,
+      "actor": "player",
+      "type": "hold",
+      "duration": 0.1
+    }
+  ]
+}

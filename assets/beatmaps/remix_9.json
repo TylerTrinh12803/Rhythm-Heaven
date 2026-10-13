@@ -1,0 +1,697 @@
+{
+ "song": "Remix 9",
+ "source": "extracted from perfect-version recording",
+ "beats": [
+  {
+   "time": 7.639,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 8.137,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 8.487,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 8.905,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 9.334,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 9.741,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 9.95,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 10.159,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 10.391,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 10.995,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 11.854,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 13.506,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 14.489,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 14.93,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 15.337,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 15.778,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 16.208,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 16.602,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 16.823,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 17.043,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 17.241,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 18.661,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 18.971,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 19.191,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 19.586,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 19.795,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 20.379,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 21.339,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 21.78,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 22.21,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 22.628,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 23.057,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 23.464,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 23.905,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 25.534,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 26.393,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 27.252,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 28.189,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 28.642,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 29.06,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 29.501,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 29.919,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 30.325,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 30.755,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 32.406,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 32.914,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 33.266,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 33.48,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 34.4,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 35.413,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 35.736,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 36.058,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 37.477,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 37.776,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 38.42,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 38.85,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 38.986,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 39.149,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 39.279,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 39.494,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 39.648,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 39.924,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 40.138,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 40.568,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 40.998,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 41.427,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 42.286,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 42.609,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 42.931,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 44.004,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 44.327,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 44.649,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 45.293,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 45.723,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 46.152,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 46.582,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 47.226,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 48.623,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 50.448,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 52.166,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 54.743,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 54.958,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 62.148,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 63.12,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 63.549,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 64.9,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 65.267,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 65.912,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 66.341,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 66.432,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 66.556,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 66.771,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 66.986,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 67.2,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 67.415,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 67.558,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 68.059,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 68.406,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 68.824,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 69.992,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 70.422,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 71.496,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 71.711,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 72.14,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 72.713,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 73.549,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 73.967,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 74.717,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 76.092,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 76.865,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 78.369,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 78.646,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 78.925,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 79.552,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 79.726,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 80.087,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 80.237,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 80.387,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 80.516,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 80.731,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 81.049,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 81.281,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 81.805,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 82.129,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 82.547,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 83.523,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 83.738,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 85.554,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 85.809,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 86.46,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 86.877,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 87.261,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 87.819,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 88.387,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 89.752,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 89.967,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 90.326,
+   "actor": "player",
+   "type": "tap"
+  },
+  {
+   "time": 90.477,
+   "actor": "player",
+   "type": "swipe",
+   "label": "FINISH!"
+  }
+ ]
+}

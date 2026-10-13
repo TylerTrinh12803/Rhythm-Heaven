@@ -1,0 +1,462 @@
+{
+  "song": "Neon Heart",
+  "bpm": 128,
+  "beats": [
+    {
+      "time": 3.75,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 4.688,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 5.625,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 6.562,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 7.5,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 8.438,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 9.375,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 10.312,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 11.25,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 12.188,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 13.125,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 14.062,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 15.0,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 15.938,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 16.875,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 17.812,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 18.75,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.3
+    },
+    {
+      "time": 19.219,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.3
+    },
+    {
+      "time": 19.688,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.3
+    },
+    {
+      "time": 20.156,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.3
+    },
+    {
+      "time": 20.625,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 21.094,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 21.562,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 22.031,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 22.5,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.3
+    },
+    {
+      "time": 22.969,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.3
+    },
+    {
+      "time": 23.438,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.3
+    },
+    {
+      "time": 23.906,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.3
+    },
+    {
+      "time": 24.375,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 24.844,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 25.312,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 25.781,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 26.25,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.9375
+    },
+    {
+      "time": 27.656,
+      "actor": "npc",
+      "type": "swipe",
+      "duration": 0.4
+    },
+    {
+      "time": 28.125,
+      "actor": "player",
+      "type": "hold",
+      "duration": 0.9375
+    },
+    {
+      "time": 29.531,
+      "actor": "player",
+      "type": "swipe"
+    },
+    {
+      "time": 30.0,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.3
+    },
+    {
+      "time": 30.703,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.3
+    },
+    {
+      "time": 30.938,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.3
+    },
+    {
+      "time": 31.875,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 32.578,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 32.812,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 33.75,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.9375
+    },
+    {
+      "time": 35.156,
+      "actor": "npc",
+      "type": "swipe",
+      "duration": 0.4
+    },
+    {
+      "time": 35.625,
+      "actor": "player",
+      "type": "hold",
+      "duration": 0.9375
+    },
+    {
+      "time": 37.031,
+      "actor": "player",
+      "type": "swipe"
+    },
+    {
+      "time": 37.5,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.3
+    },
+    {
+      "time": 38.203,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.3
+    },
+    {
+      "time": 38.438,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.3
+    },
+    {
+      "time": 39.375,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 40.078,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 40.312,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 41.25,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 42.188,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 43.125,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 44.062,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 45.0,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 45.938,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 46.875,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 47.812,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 48.75,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.9375
+    },
+    {
+      "time": 50.156,
+      "actor": "npc",
+      "type": "swipe",
+      "duration": 0.4
+    },
+    {
+      "time": 50.625,
+      "actor": "player",
+      "type": "hold",
+      "duration": 0.9375
+    },
+    {
+      "time": 52.031,
+      "actor": "player",
+      "type": "swipe"
+    },
+    {
+      "time": 52.5,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.3
+    },
+    {
+      "time": 53.203,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.3
+    },
+    {
+      "time": 53.438,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.3
+    },
+    {
+      "time": 54.375,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 55.078,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 55.312,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 56.25,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.9375
+    },
+    {
+      "time": 57.656,
+      "actor": "npc",
+      "type": "swipe",
+      "duration": 0.4
+    },
+    {
+      "time": 58.125,
+      "actor": "player",
+      "type": "hold",
+      "duration": 0.9375
+    },
+    {
+      "time": 59.531,
+      "actor": "player",
+      "type": "swipe"
+    },
+    {
+      "time": 60.0,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.3
+    },
+    {
+      "time": 60.703,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.3
+    },
+    {
+      "time": 60.938,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.3
+    },
+    {
+      "time": 61.875,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 62.578,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 62.812,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 63.281,
+      "actor": "npc",
+      "type": "swipe",
+      "duration": 0.4
+    },
+    {
+      "time": 63.75,
+      "actor": "player",
+      "type": "swipe",
+      "label": "FINISH!"
+    }
+  ]
+}

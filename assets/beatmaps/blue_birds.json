@@ -1,0 +1,282 @@
+{
+  "song": "Blue Birds",
+  "bpm": 129.2,
+  "beats": [
+    {
+      "time": 4.115,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 5.044,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 5.973,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 6.902,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 7.83,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 8.759,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 9.688,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 10.617,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 11.546,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 12.474,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 13.403,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 14.332,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 15.261,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 16.19,
+      "actor": "npc",
+      "type": "swipe",
+      "duration": 0.4
+    },
+    {
+      "time": 17.118,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 18.047,
+      "actor": "player",
+      "type": "swipe"
+    },
+    {
+      "time": 18.976,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 19.905,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 20.834,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 21.762,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 22.691,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 23.62,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 24.549,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 25.478,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 26.406,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.9288
+    },
+    {
+      "time": 28.264,
+      "actor": "player",
+      "type": "hold",
+      "duration": 0.9288
+    },
+    {
+      "time": 30.122,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 31.05,
+      "actor": "npc",
+      "type": "swipe",
+      "duration": 0.4
+    },
+    {
+      "time": 31.979,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 32.908,
+      "actor": "player",
+      "type": "swipe"
+    },
+    {
+      "time": 33.837,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 34.766,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 35.694,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 36.623,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 37.552,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 38.481,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 39.41,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 40.338,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 41.267,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 42.196,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 43.125,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 44.054,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 44.982,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 45.911,
+      "actor": "npc",
+      "type": "swipe",
+      "duration": 0.4
+    },
+    {
+      "time": 46.84,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 47.769,
+      "actor": "player",
+      "type": "swipe"
+    },
+    {
+      "time": 48.698,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 49.626,
+      "actor": "npc",
+      "type": "cue",
+      "duration": 0.4
+    },
+    {
+      "time": 50.555,
+      "actor": "player",
+      "type": "tap"
+    },
+    {
+      "time": 51.484,
+      "actor": "player",
+      "type": "tap"
+    }
+  ]
+}
